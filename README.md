@@ -26,7 +26,7 @@ Track my learning journey with clear explanations
 
 Clone this repository:
 
-git clone https://github.com/Shaik-Khaja_byte/DSA-Journey.git
+git clone https://github.com/Shaik-Khaja-byte/DSA-Journey.git
 
 Explore solutions and track progress!
 
