@@ -12,6 +12,8 @@ Arrays/ → Problems related to arrays
 
 Vectors/ → Problems solved using C++ STL vectors
 
+Sorting Algorithms/ → Implementation and detailed description attached
+
 As I progress, more folders will be added to cover various DSA topics.
 
 🎯 Goals
